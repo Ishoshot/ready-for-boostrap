@@ -1,2 +1,2 @@
 # ready-for-boostrap
- A boilerplate to learn bootstrap
+ A boilerplate to learn bootstrap for
